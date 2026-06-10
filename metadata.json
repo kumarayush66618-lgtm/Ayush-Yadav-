@@ -1,0 +1,6 @@
+{
+  "name": "Smart Diary & Tasks",
+  "description": "A smart offline digital diary and task manager with scheduled alarm notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
